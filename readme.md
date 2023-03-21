@@ -1,3 +1,6 @@
+#ESX VERSION (Thanks to TheSmugGod)
+https://github.com/TheSmugGod/solos-chair-esx
+
 # in qb-inventory
 --> add png from /assets to /html/images
 
