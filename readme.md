@@ -1,6 +1,3 @@
-#ESX VERSION (Thanks to TheSmugGod)
-https://github.com/TheSmugGod/solos-chair-esx
-
 # in qb-inventory
 --> add png from /assets to /html/images
 
@@ -29,3 +26,7 @@ https://solos.tebex.io/category/2347542 <<<<
 # Join the discord for support
 
 https://discord.gg/m3bMSvDfr3 
+
+# ESX VERSION (Thanks to TheSmugGod)
+https://github.com/TheSmugGod/solos-chair-esx
+
